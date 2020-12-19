@@ -1,5 +1,5 @@
 # ML-PBL
-# catching crooks in sea
+# Catching Crooks in Sea
 
 The following program combines the predictive power of Random Forests – a powerful machine learning algorithm – with the open source, web application builder “R Shiny”. This decision support tool allows users to select a test fishing vessel with set parameters, and predict its probability of engaging in illegal fishing. Users can also create their own series of parameters and make a prediction on the probability of a ship engaging in illegal fishing.
 
